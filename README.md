@@ -1,2 +1,2 @@
-# DataLemur-SQL-Interview-Questions
-This repository contains the solutions to the SQL (PostgreSQL) challenges hosted on the DataLemur website.
+# DataLemur-Interview-Questions
+This repository will be constanlty updated with the solutions for the SQL and Python challenges hosted on DataLemur web platform.

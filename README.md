@@ -1,5 +1,5 @@
 # DataLemur-Interview-Questions
-Ever since I stumbled upon Nick Singh's DataLemur platform https://datalemur.com/, I’ve found it to be a fantastic resource for learning and keeping one's SQL/Data skills sharp. The platform offers well-structured interview questions from real-world companies that challenge both foundational and advanced SQL concepts.
+Ever since I stumbled upon Nick Singh's [DataLemur](https://datalemur.com/) platform , I’ve found it to be a fantastic resource for learning and keeping one's SQL/Data skills sharp. The platform offers well-structured interview questions from real-world companies that challenge both foundational and advanced SQL concepts.
 
 Since my current work projects don’t require me to use SQL extensively, I see this as a great opportunity to stay sharp by solving and exploring these challenges. Also, since I've been enjoying the SQL challenges so much I have decided to solve the Python ones too.
 
